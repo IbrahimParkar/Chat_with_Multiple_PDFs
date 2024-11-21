@@ -1,6 +1,6 @@
-# Chat with PDFs
+# Chat with Multiple PDFs
 
-A Streamlit application that enables interactive conversations with multiple PDF documents. This app leverages natural language processing (NLP) to parse, embed, and retrieve information from PDFs using state-of-the-art machine learning models.
+A Streamlit application that enables interactive conversations with multiple PDF documents. Using state-of-the-art machine learning models, this app leverages natural language processing (NLP) to parse, embed, and retrieve information from PDFs.
 
 ## Features
 
